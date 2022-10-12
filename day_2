@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Zahid">
+        <meta name="description" content="This page contains all info i have.">
+        <title>First project</title>
+        <link rel="icon" href="html5.png" type="image/x-icon">
+        <link rel="stylesheet" href="main.css" type="text/css">
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p><em>This is a test paragraph.</em></p>
+        <address>
+            Nimtoli Road, Merul Badda<br>
+            Dhaka, 1200<br>
+            Bangladesh
+        </address>
+        <!-- TODO: Add more places from here -->
+        <hr>
+        <h2>I'm Md. Zahid Hasan</h2>
+        <p><strong>This is a second test paragraph.</strong></p>
+        <p>This is just a test para.
+            <br>&nbsp;&nbsp;...This is a sub line from <abbr title="Mozilla Developer Network">MDN</abbr>.
+            <br>...This is also a sub line.
+            <br>...This is another sub line from <abbr title="Kansas">KS</abbr>.
+        </p>
+        <hr>
+        <h3>This is a h3 tag line.</h3>
+        <hr>
+        &lt;&lt;&lt; &copy; Zahid Hasan &gt;&gt;&gt;
+        <hr>
+    </body>
+</html>
